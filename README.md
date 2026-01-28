@@ -9,3 +9,4 @@ yarn add bcrypt@^6.0.0 dotenv@^16.5.0 express@^5.1.0 fast-glob@^3.3.3 jsonwebtok
 touch ./src/middlewares/auth-middleware.ts ./src/middlewares/body-parser.ts ./src/middlewares/content-type.ts ./src/middlewares/cors.ts ./src/middlewares/error-handlers.ts ./src/middlewares/index.ts ./src/middlewares/security-headers.ts ./src/middlewares/validate-body.ts ./src/middlewares/authorize-roles.ts
 ```
 # file-manager-hackathon-api
+# file-manager-hackathon-api
